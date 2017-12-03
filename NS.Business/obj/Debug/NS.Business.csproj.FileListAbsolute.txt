@@ -1,0 +1,7 @@
+C:\Repositorios\NS.WebService\NS.Business\bin\Debug\NS.Business.dll
+C:\Repositorios\NS.WebService\NS.Business\bin\Debug\NS.Business.pdb
+C:\Repositorios\NS.WebService\NS.Business\bin\Debug\NS.Domain.dll
+C:\Repositorios\NS.WebService\NS.Business\bin\Debug\NS.Domain.pdb
+C:\Repositorios\NS.WebService\NS.Business\obj\Debug\NS.Business.csprojResolveAssemblyReference.cache
+C:\Repositorios\NS.WebService\NS.Business\obj\Debug\NS.Business.dll
+C:\Repositorios\NS.WebService\NS.Business\obj\Debug\NS.Business.pdb

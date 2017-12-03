@@ -1,0 +1,4 @@
+C:\Repositorios\NS.WebService\NS.Domain\bin\Debug\NS.Domain.dll
+C:\Repositorios\NS.WebService\NS.Domain\bin\Debug\NS.Domain.pdb
+C:\Repositorios\NS.WebService\NS.Domain\obj\Debug\NS.Domain.dll
+C:\Repositorios\NS.WebService\NS.Domain\obj\Debug\NS.Domain.pdb
